@@ -1,7 +1,7 @@
 # VRMonsterShooter
 My Capstone Project (Shooter Monsters) , I will be building  a game for carboard that invokes fear in the player  where it ‘s easy to move and hit the monsters. 
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
-I built  a game for a virtual reality (Google Cardboard) that invokes fear where it ‘s easy to move and hit the monsters.  
+
 ##Video Link
 Find the link to a Gameplay [here](https://youtu.be/DlOZKyTKjSg)                
 Find the link to  Walkthrough  [here](https://youtu.be/gonNHvXkIUk)
@@ -21,8 +21,6 @@ Find the link to  Walkthrough  [here](https://youtu.be/gonNHvXkIUk)
 ### Fundamentals
 
 | Achievements | Points |
-
-| ------ | ------ |
 
 | Scale achievement | 100 |
 
@@ -45,8 +43,6 @@ Find the link to  Walkthrough  [here](https://youtu.be/gonNHvXkIUk)
 
 | Achievements | Points |
 
-| ------ | ------ |
-
 |  Gamification achievement| 250 |
 
 | Diegetic UI achievement | 250 |
@@ -60,8 +56,6 @@ Find the link to  Walkthrough  [here](https://youtu.be/gonNHvXkIUk)
 ### Challenges
 
 | Achievements | Points |
-
-| ------ | ------ |
 
 | User Testing achievement | 250 (2x) |
 
