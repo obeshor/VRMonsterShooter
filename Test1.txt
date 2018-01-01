@@ -1,0 +1,16 @@
+First user test
+
+ About
+- at this point, I had the city  with some models in the scene, the user moved any way (auto walking), the monsters appeared .
+
+Test
+- the player felt like he was his normal height in the vr world
+- He felt like the city was supposed to sketchy but it was noted that it wasn't quite so
+- He didn't know how many monsters he killed
+- finally, the player was able to break immersion by moving beyond the scene
+
+Fixes
+- I decreased the overall lighting of the city to reduce the need for environement and to give it a scarier feel
+- I added a semi panel to show score, degree of Health as slider
+- I added colliders to each  walls around the city so that the user did not leave the city
+ 

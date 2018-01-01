@@ -1,0 +1,19 @@
+Final user test
+
+About
+- by this point, I had added:
+	. diegetic features - a Start screen with help button to show the player how to move around the scene and hit monsters
+                      - Game over scene after lose the game
+                      - a semi panel to show score, degree of Health as slider
+	. sounds - background music, monster sounds
+	. 3D Model - damaged cars, game endpoint ( Tunnel)
+
+
+Test
+- player could not see the endpoint of the game
+- Player ask me to add the text that shows  available current bullets  while hitting 
+
+
+Fixes
+ - to prevent the player that he is in the end point of the game, I added a display panel with a yellow star and collider in the entrance of tunnel
+ - I also added  the text canvas for available current bullets in the semi panel . when the player press to the headset to hit, the number of current bullets decreased automatically.
