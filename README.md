@@ -2,7 +2,7 @@
 My Capstone Project (Shooter Monsters) , I will be building  a game for carboard that invokes fear in the player  where it ‘s easy to move and hit the monsters. 
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
-##Video Link
+## Video Link
 Find the link to a Gameplay [here](https://youtu.be/DlOZKyTKjSg)                
 Find the link to  Walkthrough  [here](https://youtu.be/gonNHvXkIUk)
 
